@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "yeonjunrhee"
 permalink: /about/
 ---
+
+관심이 있는 python 과 django, Swift 를 배우고 그날 한 일들을 올려서 정리를 해볼까 한다.
+
 
 A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 

@@ -4,14 +4,14 @@
 # baseurl:        "/tale"
 # url:            "https://chesterhow.github.io"
 
-title:          yeonjunRhee
+title:          YeonJun Rhee
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
 url:            "https://yeonjunrhee.github.io"
 
 # Author
 author:
-  name:         yeonjun Rhee
+  name:         yeonjunrhee
   url:          https://harmajun.com
   email:        harmattans@gmail.com
 
