@@ -21,14 +21,14 @@ author: "YeonJunRhee"
 
 3. [pages.github.com](https://pages.github.com/) 사이트 참조해서 PC에 저장소 복제를 하고 파일 추가한다.
 * terminal 에서 입력한다.
-- git clone https://github.com/username/username.github.io
-- cd username.github.io
-- echo "hello world" > index.html
-- git add --all
-- git commit -m "add에 대한 설명"
-- git push -u origin master<br>
+* git clone https://github.com/username/username.github.io
+* cd username.github.io
+* echo "hello world" > index.html
+* git add --all
+* git commit -m "add에 대한 설명"
+* git push -u origin master<br>
 'git push **username** master'
-- 브라우저에서 'https://username.github.io' 접속
+* 브라우저에서 'https://username.github.io' 접속
 * 이후 변경사항확인 = git status
 
 4. [구글](https://www.google.com) 에서 '**jekyll theme**' 검색해서 맘에 드는 테마 다운로드한 후 PC에 저장소 복제한 폴더에 다운로드한 테마 파일을 압축해제한 후 복사한다.
