@@ -27,14 +27,14 @@ author: "YeonJunRhee"
 * git add --all
 * git commit -m "add에 대한 설명"
 * git push -u origin master<br>
-'git push **username** master'
+git push **username** master
 * 브라우저에서 'https://username.github.io' 접속
 * 이후 변경사항확인 = git status
 
 4. [구글](https://www.google.com) 에서 '**jekyll theme**' 검색해서 맘에 드는 테마 다운로드한 후 PC에 저장소 복제한 폴더에 다운로드한 테마 파일을 압축해제한 후 복사한다.
 * 다운로드한 테마파일 압축해제
-* terminal 에서 복제한 저장소 폴더까지 들어간 후에
-cp -r ~/Desktop/myGitblog/tale-master/ ./
+* terminal 에서 복제한 저장소 폴더까지 들어간 후에 압축해제한 폴더 절대경로를 입력해서 복사한다.(숨김파일까지)
+cp -r ~/Desktop/.../테마파일폴더/ ./
 
 5. 복사한 테마에 맞는 markdown 형식으로 블로그 작성해서 올린다.
 * post에서 첫번째글 'Example Content' 참조
