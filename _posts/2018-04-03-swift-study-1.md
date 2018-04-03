@@ -16,12 +16,11 @@ author: "YeonJunRhee"
 
 1. [github.com](https://github.com) 사이트 접속해서 회원가입 한다.
 
-2. '**repositories**' 생성한다.
-* 'repositories' 생성시 이름을 **'username'.github.io** 식으로 설정
+2. 'repositories' 생성한다.
+* 'repositories' 생성시 이름을 **username.github.io** 식으로 설정
 
 3. [pages.github.com](https://pages.github.com/) 사이트 참조해서 PC에 저장소 복제를 하고 파일 추가한다.
 * terminal 에서 입력한다.
-{% highlight markdown %}
 - git clone https://github.com/username/username.github.io
 - cd username.github.io
 - echo "hello world" > index.html
@@ -36,11 +35,10 @@ author: "YeonJunRhee"
 {% endhighlight %}
 
 4. [구글](https://www.google.com) 에서 '**jekyll theme**' 검색해서 맘에 드는 테마 다운로드한 후 PC에 저장소 복제한 폴더에 다운로드한 테마 파일을 압축해제한 후 복사한다.
-{% highlight markdown %}
-- 다운로드한 테마파일 압축해제
-- terminal 에서 복제한 저장소 폴더까지 들어간 후에
+
+* 다운로드한 테마파일 압축해제
+* terminal 에서 복제한 저장소 폴더까지 들어간 후에
 cp -r ~/Desktop/myGitblog/tale-master/ ./
-{% endhighlight %}
 
 5. 복사한 테마에 맞는 markdown 형식으로 블로그 작성해서 올린다.
-- post에서 'Example Content' 참조
+* post에서 첫번째글 'Example Content' 참조
