@@ -8,7 +8,7 @@ author: "YeonJunRhee"
 
 그런데 블로그가 github를 이용해서 만든 블로그 이기 떄문에 github나 MarkDown 문서 작성법도 나중에 배운 후에 작성을 해야 할 것 같다.
 
-매일 배운 내용을 문서로 정리하는 방식이 되도록 습관을 들이고자 하는 목적도 있음을 알린다.
+매일 배운 내용을 문서로 정리하는 방식이 되도록 습관을 들이고자 하는 목적도 있음.
 
 그래서 우선 **github로 블로그 만들기**를 하면서 배우게 된 내용을 작성해본다.
 
@@ -32,10 +32,9 @@ author: "YeonJunRhee"
 'git push **username** master'
 - 브라우저에서 'https://username.github.io' 접속
 * 이후 변경사항확인 = git status
-{% endhighlight %}
+
 
 4. [구글](https://www.google.com) 에서 '**jekyll theme**' 검색해서 맘에 드는 테마 다운로드한 후 PC에 저장소 복제한 폴더에 다운로드한 테마 파일을 압축해제한 후 복사한다.
-
 * 다운로드한 테마파일 압축해제
 * terminal 에서 복제한 저장소 폴더까지 들어간 후에
 cp -r ~/Desktop/myGitblog/tale-master/ ./
