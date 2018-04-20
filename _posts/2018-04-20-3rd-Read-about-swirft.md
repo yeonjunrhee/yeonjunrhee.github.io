@@ -15,20 +15,20 @@ Swift4 + Xcode 9
 
 2. Swift 관련 자료를 인터넷에서 찾던 중 좋을 것이 있어 남기고자 한다.
 {% highlight markdown %}
-- [http://baked-corn.tistory.com/54](http://baked-corn.tistory.com/54)
+- [http://baked-corn.tistory.com/54](http://baked-corn.tistory.com/54).
 
-- [https://medium.com/@chan.henryk/storyboard-vs-programmatically-in-swift-9a65ff6aaeae](https://medium.com/@chan.henryk/storyboard-vs-programmatically-in-swift-9a65ff6aaeae)
+- [https://medium.com/@chan.henryk/storyboard-vs-programmatically-in-swift-9a65ff6aaeae](https://medium.com/@chan.henryk/storyboard-vs-programmatically-in-swift-9a65ff6aaeae).
 
-- [https://medium.com/@olegdreyman/hi-henry-nice-post-thanks-cd019aaa7572](https://medium.com/@olegdreyman/hi-henry-nice-post-thanks-cd019aaa7572)
+- [https://medium.com/@olegdreyman/hi-henry-nice-post-thanks-cd019aaa7572](https://medium.com/@olegdreyman/hi-henry-nice-post-thanks-cd019aaa7572).
 
-- [https://blog.zeplin.io/life-without-interface-builder-adbb](https://blog.zeplin.io/life-without-interface-builder-adbb)
+- [https://blog.zeplin.io/life-without-interface-builder-adbb](https://blog.zeplin.io/life-without-interface-builder-adbb).
 
-- [https://medium.com/@johnsundell/first-class-functions-in-swift-32142962022e009d2068](https://medium.com/@johnsundell/first-class-functions-in-swift-32142962022e009d2068)
+- [https://medium.com/@johnsundell/first-class-functions-in-swift-32142962022e009d2068](https://medium.com/@johnsundell/first-class-functions-in-swift-32142962022e009d2068).
 
-- [https://medium.freecodecamp.org/swift-networking-with-siesta-5b5e7089bd8f](https://medium.freecodecamp.org/swift-networking-with-siesta-5b5e7089bd8f)
+- [https://medium.freecodecamp.org/swift-networking-with-siesta-5b5e7089bd8f](https://medium.freecodecamp.org/swift-networking-with-siesta-5b5e7089bd8f).
 
-- [https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+- [https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 
-- [https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf](https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf)
+- [https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf](https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf).
 
 {% endhighlight %}
